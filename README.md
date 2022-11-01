@@ -1,6 +1,6 @@
 ## Hi there 👋
 #### 🌱 I’m studying towards a B.Sc in Computer Science
-#### ⚡ Cybersecurity is my main field of interest, I'm currently taking a malware analysis course
+#### ⚡ Cybersecurity is my main field of interest
 #### 🔭 I’m creating projects in C++, C, Python and C#
 #### 📫 Reach me via liamdrop205@gmail.com
 
