@@ -1,8 +1,8 @@
 ## Hi there 👋
 #### 🌱 I’m studying towards a B.Sc in Computer Science
-#### ⚡ Cybersecurity is my main field of interest
-#### 🔭 I’m creating projects in C++, C, Python and C#
-#### 📫 Reach me via liamdrop205@gmail.com
+#### ⚡ C++, C and Python Programmer
+#### 💾 Interested in Security Research
+#### 📫 Reach me via liamaslan017@gmail.com
 
 <!--
 **LiamAs05/LiamAs05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
