@@ -1,8 +1,9 @@
-## Hi there 👋
-#### 🌱 I’m studying towards a B.Sc in Computer Science
-#### ⚡ C++, C and Python Programmer
-#### 💾 Interested in Security Research
-#### 📫 Reach me via liamaslan017@gmail.com
+## Hello There 😉
+#### 🖱️ Computers and I click.
+#### ⚡ I'm a CS student on my senior year.
+#### 🐸 And a Security Researcher at JFrog.
+#### 🐬 And this is a dolphin.
+#### 📧 Feel free to reach me via liamaslan017@gmail.com
 
 <!--
 **LiamAs05/LiamAs05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
