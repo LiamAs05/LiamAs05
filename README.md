@@ -1,5 +1,5 @@
 ## ⚡ About Me
-#### 🇮🇱 CS student in my senior year.
+#### 🇮🇱 Senior Year CS Student.
 #### 🐸 Junior Security Researcher at JFrog.
 #### 👨‍🔬 Researching Everything Computer Science.
 #### 📧 Feel free to reach me via liamaslan017@gmail.com
