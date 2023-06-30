@@ -1,17 +1,8 @@
-## Hello There 😉
-#### 🖱️ Computers and I click.
-#### ⚡ I'm a CS student on my senior year.
-#### 🐸 And a Security Researcher at JFrog.
-#### 🐬 And this is a dolphin.
+## ⚡ About Me
+#### 🇮🇱 CS student in my senior year.
+#### 🐸 Junior Security Researcher at JFrog.
+#### 👨‍🔬 Researching Everything Computer Science.
 #### 📧 Feel free to reach me via liamaslan017@gmail.com
 
-<!--
-**LiamAs05/LiamAs05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--  I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
