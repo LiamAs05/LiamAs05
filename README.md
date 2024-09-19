@@ -1,2 +1,1 @@
-## About Me
-#### 🇮🇱  CS Graduate and Security Researcher.
+#### CS Graduate and Security Researcher.
